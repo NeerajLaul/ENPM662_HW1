@@ -1,4 +1,3 @@
-# Robot Kinematics Project
 
 ## Overview
 
@@ -70,6 +69,5 @@ Both scripts use symbolic computation with `sympy`. Additionally, `problem1.py` 
 - `problem1.py` uses symbolic expressions converted to numerical functions for simulating the robot's motion.
 - `problem2.py` focuses on symbolic derivations with a detailed breakdown of kinematics and Jacobian-related matrices.
 
----
 
-Feel free to ask if you want me to help with adding more documentation or usage examples!
+
